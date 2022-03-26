@@ -26,3 +26,42 @@ The above map shows the location of where the rides originate from.  The areas t
 
 -------------------------
 
+![peak](https://user-images.githubusercontent.com/95720986/160255614-e2805db0-dc84-4f1c-9b57-dc04d947b32c.png)
+
+Usage of the bikes is greatest in the afternoon, especially around dinner time.  It would be best to have any repairs to bikes completed by 6:00 AM to ensure that the most number of bikes are available to use when traffic is greatest.
+
+---------------------------
+
+![usage](https://user-images.githubusercontent.com/95720986/160255734-611c5144-c0c5-4818-b4b3-e5b18cab8471.png)
+
+The darker color indicates that a specific bike is used more than one that is lighter colored.  It might be a good idea to rotate some of the higher used bikes to areas of lesser usage to keep all bikes in good condition.  
+
+---------------------------
+
+![duration all users](https://user-images.githubusercontent.com/95720986/160255803-dc5956e6-c70b-4907-9839-077d10349019.png)
+
+This graph show the number of bikes checked out by duration for all users.  Most rides are for less than an hour with the greatest frequency less than 10 minutes in length.  
+
+---------------------------
+
+![duration by gender](https://user-images.githubusercontent.com/95720986/160255935-a6c147fa-333a-4fe1-b6c7-a0f5b9c6dc03.png)
+
+This graph is another representation showing that most riders are male and most rides are less than half an hour.
+
+--------------------------------
+
+![heatmap](https://user-images.githubusercontent.com/95720986/160256047-4bb23b81-75da-47c8-a6bc-13e7e48cd94b.png)
+
+This heatmap shows the day of week and time of day that has the most number of rides as indicated by the darker color.
+
+------------------------------
+
+![heatmap by gender](https://user-images.githubusercontent.com/95720986/160256104-c23b65d9-11c9-499c-8822-d9629019e19d.png)
+
+This heatmap goes one step further and breaks out the usage by gender to help determine which day of the week and what time bikes are used more.
+
+------------------------------
+
+![heatmap by user](https://user-images.githubusercontent.com/95720986/160256158-f54c0e7d-5309-4802-93a9-87c0163cf0cb.png)
+
+This heatmap shows the number of bike trips for each type of user and gender for each day of the week.
