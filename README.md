@@ -72,5 +72,5 @@ In conclusion, bikesharing appears to be a popular option for commuters in New Y
 
 In order to make sure the business can stay profitable without the need to replace bikes frequently due to over use, I would explore the following:
 
-- Are the same bikes being used in the same areas and need to be rotated out to areas where there is less frequent use?
-- Are the same bikes being used on longer trips and may have more wear and tear on the tires, leading to more repairs?
+- Are the same bikes being used in the same areas and need to be rotated out to areas where there is less frequent use?  Are the same bikes being used on longer trips and may have more wear and tear on the tires, leading to more repairs?
+- As people age, do they ride the bikes the same amount or does ridership lessen, leading to the need to advertise to get new, younger users to replace users as they age?
