@@ -65,3 +65,12 @@ This heatmap goes one step further and breaks out the usage by gender to help de
 ![heatmap by user](https://user-images.githubusercontent.com/95720986/160256158-f54c0e7d-5309-4802-93a9-87c0163cf0cb.png)
 
 This heatmap shows the number of bike trips for each type of user and gender for each day of the week.
+
+## Summary
+
+In conclusion, bikesharing appears to be a popular option for commuters in New York City to avoid having to drive and find a place to park.  As most usage seems to be around morning and evening commute times, it makes sense that males use the bikes more as females might have a harder time riding bikes in work attire.
+
+In order to make sure the business can stay profitable without the need to replace bikes frequently due to over use, I would explore the following:
+
+- Are the same bikes being used in the same areas and need to be rotated out to areas where there is less frequent use?
+- Are the same bikes being used on longer trips and may have more wear and tear on the tires, leading to more repairs?
